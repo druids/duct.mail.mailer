@@ -11,5 +11,5 @@ Leiningen/Boot
 --------------
 
 ```clojure
-[duct.mail.mailer "0.0.0"]
+[duct.mail.mailer "0.1.0"]
 ```
