@@ -1,4 +1,4 @@
-(defproject duct.mail.mailer "0.0.0"
+(defproject duct.mail.mailer "0.1.0"
   :description "A Duct boundary for sending e-mails"
   :url "https://github.com/druids/duct.sms.sender"
   :license {:name "MIT License"
